@@ -2,7 +2,6 @@
 
 Sou um desenvolvedor PHP/Laravel 🚀
 
-- 🌱 Atualmente estudando PHP, Laravel, jQuery e MySQL  
 - 💼 Trabalhando na [**Cotefrete**](https://www.cotefrete.com.br)
 
 ---
