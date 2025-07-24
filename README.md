@@ -8,7 +8,7 @@ Sou um desenvolvedor PHP/Laravel 🚀
 
 ## 🧑💻 Sobre Mim
  
-Meu foco é no desenvolvimento backend, integração de sistemas e criação de aplicações escaláveis com o framework Laravel.
+Meu foco é no desenvolvimento backend, integração de sistemas e criação de aplicações escaláveis.
 
 ---
 
