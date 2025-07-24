@@ -14,4 +14,4 @@ Meu foco é no desenvolvimento backend, integração de sistemas e criação de 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,postgres,postman,bootstrap,cs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,bootstrap,cs,git)](https://skillicons.dev)
