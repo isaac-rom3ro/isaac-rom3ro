@@ -1,6 +1,6 @@
 # Olá, eu sou o Isaac Romero 👋
 
-Sou um desenvolvedor PHP/Laravel 🚀
+Sou um desenvolvedor Back-End Júnior 🚀
 
 - 💼 Trabalhando na [**Cotefrete**](https://www.cotefrete.com.br)
 
