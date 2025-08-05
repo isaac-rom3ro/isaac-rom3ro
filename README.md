@@ -1,17 +1,6 @@
-# Olá, eu sou o Isaac Romero 👋
+Hello, I'm Isaac Romero 👋
+I'm a Junior Back-End Developer
 
-Sou um Desenvolvedor Back-End Júnior 
-
-- 💼 Trabalhando na [**Cotefrete**](https://www.cotefrete.com.br)
-
----
-
-## 🙂💻 Sobre Mim
- 
-Meu foco é no desenvolvimento backend, integração de sistemas e criação de aplicações escaláveis.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+💼 Currently working at Cotefrete
 
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,html,css,bootstrap,git)](https://skillicons.dev)
